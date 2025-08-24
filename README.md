@@ -1,1 +1,1 @@
-# RFM-Analizi-M-teri-Sekmentasyonu
+# RFM-Analizi-Sekmentasyon
